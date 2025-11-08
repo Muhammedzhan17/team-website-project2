@@ -1,1 +1,1 @@
-# team-website-project2
+# team-website-project2/indexs.html assets/css/style.css
